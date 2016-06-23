@@ -4,7 +4,9 @@ title:  "Welcome to My GitHub Pages!"
 date:   2016-06-23 15:54:29 +0800
 categories: jekyll update
 ---
-Thank you for visiting my GitHub Page.I created this page just now, this is first page on my GitHub Pages.
+**Thank you for visiting my GitHub Page.**
+
+I created this page just now, this is first page on my GitHub Pages.
 
 You will find some useful repositories here, :) Visit my [GitHub profile] to view what can you get.
 
