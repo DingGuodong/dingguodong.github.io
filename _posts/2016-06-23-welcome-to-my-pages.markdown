@@ -14,7 +14,7 @@ Visit my [GitHub profile] to view what can you get.
 
 Visit my [51CTO blog] to view my blog.
 
-This web site is driven by [Jekyll]. Jekyll can transform your plain text into static websites and blogs. .
+This web site is driven by [Jekyll]. Jekyll can transform your plain text into static websites and blogs.
 
 [GitHub profile]: https://github.com/DingGuodong
 [Jekyll]: http://jekyllrb.com/
